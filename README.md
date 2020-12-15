@@ -18,7 +18,7 @@
 # OR
 # a development environment that supports PHP (example wampserver) can be used on a local machine.
 
-# Alternatively, You can copy,paste  and run the script into https://paiza.io/en after choosing PHP as the preferred language
+# Alternatively, You can copy, paste and run the script in https://paiza.io/en after choosing PHP as the preferred language
 
 
 #############
