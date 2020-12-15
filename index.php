@@ -13,7 +13,7 @@ $response = json_decode($result);
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Destiny</title>
+    <title>Lokalize | Chidozie</title>
   </head>
   <body>
     <div>
